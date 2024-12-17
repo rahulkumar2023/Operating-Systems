@@ -1,6 +1,6 @@
 def round_robin_scheduling(processes, quantum):
     """This code implements round robin scheduling algorithm
-    Modified by: Rahul Kumar and 20349877
+    Modified by: Rahul Kumar
     """
 
     n = len(processes)
