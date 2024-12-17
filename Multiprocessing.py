@@ -1,9 +1,7 @@
-# “I confirm that this submission is my own work and is consistent with the Queen's regulations on Academic Integrity.”
 """
 This program explores I/O-Bound and CPU-Bound Task Performance Using Multiprocessing.
 Author: Rahul Kumar
 Date: September 20, 2024
-Student Number: 20349877
 """
 
 import multiprocessing
