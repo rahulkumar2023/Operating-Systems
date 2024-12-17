@@ -3,7 +3,7 @@ import time
 
 """
 This program demonstrates IPC via message queue with multiple child processes.
-Name: Rahul Kumar  
+Author: Rahul Kumar  
 """
 
 def childProcess(q, process_number, num_messages):
