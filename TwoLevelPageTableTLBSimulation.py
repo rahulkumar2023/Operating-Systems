@@ -1,3 +1,10 @@
+"""
+This program simulates a two-level page table and Translation Lookaside Buffer (TLB) to explore virtual-to-physical address translation.
+It demonstrates TLB hits, TLB misses, and page faults using various access patterns.
+Author: Rahul Kumar
+Date: November 25, 2024
+"""
+
 import random
 from collections import OrderedDict
 
