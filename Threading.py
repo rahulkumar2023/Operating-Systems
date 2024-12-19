@@ -1,9 +1,7 @@
-# “I confirm that this submission is my own work and is consistent with the Queen's regulations on Academic Integrity.”
 """
 This program simulates a collaborative writing and editing environment using threading, where writers submit articles, and editors review them, managing access and synchronization to avoid race conditions and deadlocks.
 Author: Rahul Kumar
 Date: November 2, 2024
-Student Number: 20349877
 """
 
 import threading
