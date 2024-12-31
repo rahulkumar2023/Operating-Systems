@@ -1,4 +1,4 @@
-### README for GitHub Repository: **Operating Systems**
+### **Operating Systems Repository**
 
 ---
 
